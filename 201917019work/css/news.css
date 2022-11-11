@@ -1,0 +1,61 @@
+.main{
+    height: 1381px;
+}
+.main .banner {
+    height: 630px;
+    background-image: url(../images/03.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.main .story {
+    position: relative;
+    height: 660px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url(../images/xiaoyou1.jpg);
+}
+
+.main .story .sty1 h1{
+    width: 250px;
+    height: 72px;
+    margin-left: 835px;
+    
+}
+.main .story ul{
+    width: 1605px;
+    height: 400px;
+    margin: 0 auto;
+    
+    background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+
+    
+}
+.main .story ul #li_1{
+    float: left;
+    width: 800px;
+    height: 400px;
+    margin-left: 20px;
+    background-color: #A9C9FF;
+background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+    list-style: none;
+    
+}
+.main .story ul #li_2{
+     float: left;
+    width: 500px;
+    height: 400px;
+    margin-left: 20px;
+    background-color: skyblue;
+    list-style: none;
+    
+}
+.li_child{
+    height: 50px;
+    font-size: 20px;
+
+}
+
+
+    

@@ -1,0 +1,44 @@
+.main{
+    height: 1381px;
+}
+.main .banner {
+    height: 630px;
+    background-image: url(../images/01.jpg);
+    background-repeat: no-repeat;
+
+}
+
+li{
+    list-style: none;
+}
+.main .story {
+    position: relative;
+    height: 660px;
+    width: 100%;
+    background-repeat: no-repeat;
+    /* background-color: rgb(241, 241, 241); */
+    background-image: url(../images/xiaoyou1.jpg);
+}
+
+.main .story .sty1 img{
+    width: 250px;
+    height: 72px;
+    margin-left: 835px;
+}
+.main .story ul{
+    width: 1605px;
+    height: 400px;
+    margin: 0 auto;
+    
+    background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+
+    
+}
+.main .story ul li{
+    float: left;
+    width: 299px;
+    height: 400px;
+    margin-left: 20px;
+    background-color: skyblue;
+}
